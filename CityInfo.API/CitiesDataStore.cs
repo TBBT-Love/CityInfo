@@ -18,11 +18,11 @@ namespace CityInfo.API
                 Name = "Shimla",
                  Description="Queen of hills"
             },new CityDTO(){
-               Id = 1,
+               Id = 2,
                 Name = "Darjeeling",
                  Description="Land of tea"
             },new CityDTO(){
-               Id = 1,
+               Id = 3,
                 Name = "Chirapunjee",
                  Description="Land where it rains a lot!!"
             }
